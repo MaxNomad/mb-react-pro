@@ -1,5 +1,5 @@
 // MDB FREE
-@import "mdb-free";
+@import "mdb-lite-free";
 
 // PRO
 @import "pro/variables";
@@ -10,7 +10,6 @@
 @import "pro/dropdowns";
 @import "pro/navbars";
 @import "pro/scrollspy";
-/*@import "pro/modules/lightbox/module";*/
 @import "pro/chips";
 @import "pro/msc";
 @import "pro/forms";
@@ -23,8 +22,6 @@
 @import "pro/input-group";
 @import "pro/autocomplete";
 @import "pro/accordion-basic";
-@import "pro/modules/accordion-extended/module";
-@import "pro/modules/parallax/module";
 @import "pro/sidenav";
 @import "pro/ecommerce";
 @import "pro/carousels";
@@ -33,17 +30,10 @@
 @import "pro/animations";
 @import "pro/progress";
 @import "pro/scrollbar";
-@import "pro/modules/megamenu/module";
-@import "pro/tooltips";
 // Your custom skin
 @import "custom-skin";
 @import "pro/skins";
 @import "pro/depreciated";
-
-// Picker
-@import "pro/picker/default";
-@import "pro/picker/default-time";
-@import "pro/picker/default-date";
 
 // Sections
 @import "pro/sections/templates";
